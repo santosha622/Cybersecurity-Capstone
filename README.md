@@ -1,7 +1,2 @@
-# Super secure, much safe, so chat
 
-Students:
-  Elias Rabl, Andreas Lindlbauer
-
-
-The project is hosted at: http://cs-capstone-chat.herokuapp.com/
+The project is hosted at and click this link: http://cs-capstone-chat.herokuapp.com/
